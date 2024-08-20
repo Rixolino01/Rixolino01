@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi there, I´m Richardson 👋
+
+# 🌱 I’m currently learning about Python and SQL to develop my grow into Data Science;
+# ✨ Nowadays I´m working with Power BI and analyics tolls
+
+## 📫 How to reach me:
+# www.linkedin.com/in/richardson-trizzino-003803132
+
+
+
 
 <!--
 **Rixolino01/Rixolino01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
