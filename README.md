@@ -1,7 +1,9 @@
 ## Hi there, I´m Richardson 👋
 
 ### 🌱 I’m currently learning about Python and SQL to develop my grow into Data Science;
-### ✨ Nowadays I´m working with Power BI and analyics tolls
+### ✨ Nowadays I´m working with Power BI and analyics tools
+.
+.
 
 ## 📫 How to reach me:
 ### www.linkedin.com/in/richardson-trizzino-003803132
