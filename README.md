@@ -15,6 +15,9 @@
 ### www.linkedin.com/in/richardson-trizzino-003803132
 
 <details>
+ ---
+ >TENTADO CONSTRUIR UMA TABELA
+ -Aristoteles
 <summary>My top languages</summary>
 
 | Rank | Languages |
