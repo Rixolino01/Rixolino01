@@ -14,19 +14,7 @@
 ## 📫 How to reach me:
 ### www.linkedin.com/in/richardson-trizzino-003803132
 
-<details>
- ---
- >TENTADO CONSTRUIR UMA TABELA
- -Aristoteles
-<summary>My top languages</summary>
 
-| Rank | Languages |
-|-----:|-----------|
-|     1| JavaScript|
-|     2| Python    |
-|     3| SQL       |
-
-</details>
 
 
 
