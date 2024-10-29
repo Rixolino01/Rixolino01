@@ -1,6 +1,6 @@
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="[YOUR-DARKMODE-IMAGE](https://drive.google.com/file/d/1SfyzqE3ziGYm2ZwBN-vpDz0YFUxXwF0x/view?usp=drive_link)">
- <source media="(prefers-color-scheme: light)" srcset="[YOUR-LIGHTMODE-IMAGE](https://drive.google.com/file/d/1i72LDxa8_A56LvFXnWBjqHv8DkrOTOiP/view?usp=drive_link)">
+ <source media="(prefers-color-scheme: dark)" srcset="[(https://drive.google.com/file/d/1SfyzqE3ziGYm2ZwBN-vpDz0YFUxXwF0x/view?usp=drive_link)]">
+ <source media="(prefers-color-scheme: light)" srcset="[(https://drive.google.com/file/d/1i72LDxa8_A56LvFXnWBjqHv8DkrOTOiP/view?usp=drive_link)]">
  <img alt="Fantasmas" src="">
 </picture>
 
