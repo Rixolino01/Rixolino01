@@ -3,6 +3,10 @@
 ### 🌱 I’m currently learning about Python and SQL to develop my grow into Data Science;
 ### ✨ Nowadays I´m working with Power BI and analytics tools
 .
+## 🟢 Programming Languages
+![Python](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=20C20E)
+![Power BI](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=20C20E)
+![SQL](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=20C20E)
 .
 
 ## 📫 How to reach me:
