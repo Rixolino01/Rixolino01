@@ -4,9 +4,9 @@
 ### ✨ Nowadays I´m working with Power BI and analytics tools
 .
 ## 🟢 Programming Languages
-![Python](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=20C20E)
-![Power BI](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=20C20E)
-![SQL](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=20C20E)
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=c&logoColor=20C20E)
+![Power BI](https://img.shields.io/badge/Power_BI-black?style=for-the-badge&logo=c&logoColor=20C20E)
+![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=c&logoColor=20C20E)
 .
 
 ## 📫 How to reach me:
