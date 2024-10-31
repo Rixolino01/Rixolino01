@@ -9,7 +9,7 @@
 ![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=SQL&logoColor=20C20E)
 
 ## 📊 Estatísticas do GitHub
-[GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rixolino01&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=0000FF&text_color=FFF)
+[GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rixolino01&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 .
 
 ## 📫 How to reach me:
